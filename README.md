@@ -12,7 +12,7 @@
 ❤️ Amo aprender sobre tecnologia com impacto social <br/>
 🎙️ Fã de podcasts de autoconhecimento <br/>
 😎 Eu tenho uma palavra fav: coragem <br/>
-🫰 Faço voluntariado em 3 projetos: Stem para Minas, Talk to Her e no Time <br/>
+🫰 Faço voluntariado em 3 projetos: Stem para Minas e no Time <br/>
 de Dados e Tecnologia da LALA (Academia de Líderes da América Latina) <br/>
 
 
