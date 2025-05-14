@@ -4,8 +4,6 @@
 <h3> 💻 Estudos: </h3>
 <ul>
   <li> 🎓Técnica em Informática - IFBA </li>
-  <li> 👩‍💻 Aprendendo desenvolvimento front-end com Html, CSS, Javascript e React - Pretalab  </li>
-  <li> 👩‍💻 Na jornada Ux Design - Pelo Coursera / Afrolatinas Tech </li>
 </ul> 
 <br/>
 <b> + Sobre mim ✨ </b>  <br/>
